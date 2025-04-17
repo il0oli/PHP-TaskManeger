@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.wrapper{
+   
+    width: 70%;
+    margin: 0 auto;
+    padding: 2%;
+}
+h1{
+    color:#3867d6;
+    margin-bottom: 3%;
+}
+
+h3{
+    margin:2% 0;
+}
+
+.menu{
+    margin-bottom: 2%;
+}
+.menu a{
+    font-weight: bold;
+    margin-right: 1%;
+    color: black;
+    text-decoration: none;
+   
+}
+.menu a:hover{
+    text-decoration: underline;
+}
+.btn{
+    background-color: deepskyblue;
+    padding: 5px;
+    font-weight: bold;
+    text-decoration: none;
+    color: azure;
+
+}
+
+.btn:hover{
+    background-color: rgb(0, 154, 206);
+    
+    
+}
+
+.btn-lg{
+    width: 50%;
+}
+
+.btn2{
+    background-color: #778ca3;
+    padding: 5px;
+    font-weight: bold;
+    text-decoration: none;
+    color: azure;
+}
+.btn2:hover{
+    background-color: #4b6584;
+    
+    
+}
+
+.btn3{
+    background-color: #239f7a;
+    padding: 5px;
+    font-weight: bold;
+    text-decoration: none;
+    color: azure;
+}
+.btn3:hover{
+    background-color: #115c45;
+    
+    
+}
+
+.btn4{
+    background-color: #cd1711;
+    padding: 5px;
+    font-weight: bold;
+    text-decoration: none;
+    color: azure;
+}
+.btn4:hover{
+    background-color: #710f08;
+    
+    
+}
+
+
+.tbl-full{
+    width: 100%;
+}
+
+table tr th{
+    text-align: left;
+    border-bottom: 1px solid black;
+    padding: 1%;
+    padding-top: 4%;
+}
+table tr td {
+    padding: 1%;
+}
+
+.tbl-half{
+    width: 40%;
+}
